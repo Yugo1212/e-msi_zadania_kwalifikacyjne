@@ -1,0 +1,12 @@
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\bin\Debug\net6.0\TaskForInterview.deps.json
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\bin\Debug\net6.0\TaskForInterview.dll
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\bin\Debug\net6.0\ref\TaskForInterview.dll
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\bin\Debug\net6.0\TaskForInterview.pdb
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.csproj.AssemblyReference.cache
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.AssemblyInfoInputs.cache
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.AssemblyInfo.cs
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.csproj.CoreCompileInputs.cache
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.dll
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\ref\TaskForInterview.dll
+C:\Users\Yugo1\OneDrive\Pulpit\TaskForInterview\TaskForInterview\obj\Debug\net6.0\TaskForInterview.pdb
